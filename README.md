@@ -2,20 +2,20 @@
 AI-Powered Banking Threat Intelligence Platform
 
 Workflow:
-Customer initiates banking transaction
-↓
-Collect transaction details
-↓
-Collect login activity & cybersecurity telemetry
-↓
-AI Correlation Engine
-↓
-Risk Score Generation
-↓
-Explainable AI
-↓
-Fraud Detection Decision
-↓
-Dashboard & Alert
-↓
-SOC Team / Bank Admin
+1. Customer initiates banking transaction
+
+2. Collect transaction details
+
+3. Collect login activity & cybersecurity telemetry
+
+4. AI Correlation Engine
+
+5. Risk Score Generation
+
+6. Explainable AI
+
+7. Fraud Detection Decision
+
+8. Dashboard & Alert
+
+9. SOC Team / Bank Admin
